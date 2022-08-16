@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+ting.egg-info/PKG-INFO
+ting.egg-info/SOURCES.txt
+ting.egg-info/dependency_links.txt
+ting.egg-info/top_level.txt
+ting_file_management/__init__.py
+ting_file_management/file_management.py
+ting_file_management/file_process.py
+ting_file_management/queue.py
+ting_word_searches/__init__.py
+ting_word_searches/word_search.py
